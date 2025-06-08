@@ -1,0 +1,71 @@
+/* Custom CSS for Generated Reports Page */
+
+body {
+    background: url('report.jpeg') no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #2c3e50;
+    margin-bottom: 20px;
+}
+
+.report-card {
+    background-color: rgba(255, 255, 255, 0.7);
+    border-left: 4px solid #3498db;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.report-card h2 {
+    color: #2c3e50;
+}
+
+.report-card p {
+    color: #7f8c8d;
+}
+
+.download-link {
+    color: #3498db;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.download-link:hover {
+    text-decoration: underline;
+}
+
+.btn {
+    display: inline-block;
+    background-color: #3498db;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-top: 10px;
+}
+
+.btn:hover {
+    background-color: #2980b9;
+}
+
+.no-reports {
+    text-align: center;
+    padding: 30px;
+    color: #7f8c8d;
+}

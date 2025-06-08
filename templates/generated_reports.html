@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generated Reports</title>
+    <!-- Link to Tailwind CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <!-- Link to your custom CSS file -->
+    <link href="/static/css/generated_rep.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100">
+    <div class="container mx-auto p-4 max-w-4xl">
+        <div class="bg-white p-6 rounded-lg shadow-md">
+            <h1 class="text-3xl font-bold text-center mb-6">Generated Reports</h1>
+
+            {% if reports %}
+            <div class="space-y-6">
+                {% for report in reports %}
+                <div class="p-4 bg-gray-50 rounded-lg border-l-4 border-blue-500">
+                    <h2 class="text-xl font-semibold mb-2 text-gray-800">{{ report.title }}</h2>
+                    <!-- <p class="text-gray-700">{{ report.content | safe }}</p> -->
+                    <div class="mt-4 flex justify-end">
+                        <a href="{{ url_for('download_report', filename=report.title) }}" class="text-blue-500 hover:text-blue-700 font-medium">Download Report</a>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+            {% else %}
+            <div class="text-center py-10">
+                <p class="text-gray-500 text-lg">No reports have been generated yet.</p>
+                <a href="{{ url_for('ask_questions') }}" class="mt-4 inline-block bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Generate a New Report</a>
+            </div>
+            {% endif %}
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us / Feedback</title>
+    <link href="/static/css/admin.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h1>Contact Us</h1>
+        <p>If you have any questions or need support, feel free to reach out to us:</p>
+        <p>Email: contact@example.com</p>
+        <p>Phone: +1234567890</p>
+
+        <button id="feedbackBtn" class="feedback-btn">Provide Feedback</button>
+
+        <div id="feedbackForm" class="feedback-form-container" style="display: none;">
+            <h2>Feedback Form</h2>
+            <form action="/submit_feedback" method="post">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+
+                <label for="phone">Phone Number:</label>
+                <input type="text" id="phone" name="phone" required>
+
+                <label for="query">Query:</label>
+                <textarea id="query" name="query" required></textarea>
+
+                <button type="submit" class="submit-btn">Submit Feedback</button>
+            </form>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById('feedbackBtn').addEventListener('click', function() {
+            document.getElementById('feedbackForm').style.display = 'block';
+        });
+    </script>
+</body>
+</html>

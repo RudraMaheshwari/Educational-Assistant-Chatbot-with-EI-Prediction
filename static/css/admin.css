@@ -1,0 +1,201 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Arial, sans-serif;
+    background: url('report.jpeg') no-repeat center center fixed;
+    background-size: cover;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Main Container Styles */
+.container {
+    width: 500px;
+    /* Slightly wider for a better layout */
+    padding: 30px;
+    /* More padding for a spacious feel */
+    background-color: #ffffff;
+    /* White background for clarity */
+    border-radius: 8px;
+    /* Rounded corners for a modern look */
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+    /* Enhanced shadow for depth */
+    text-align: center;
+    /* Center text */
+}
+
+/* Main Heading Styles */
+h1 {
+    color: #4CAF50;
+    /* Green color for the main heading */
+    font-size: 2.5em;
+    /* Larger font size for emphasis */
+    margin-bottom: 15px;
+    /* Space below the heading */
+    font-weight: 600;
+    /* Semi-bold font weight */
+}
+
+/* Subheading Styles */
+h2 {
+    color: #555;
+    /* Subtle color for subheadings */
+    font-size: 1.8em;
+    /* Larger font size for subheadings */
+    margin-bottom: 25px;
+    /* Space below the subheading */
+    font-weight: 500;
+    /* Medium font weight */
+}
+
+/* List Styles */
+ul {
+    list-style-type: none;
+    /* Remove default list styles */
+    padding: 0;
+    /* Remove default padding */
+}
+
+/* List Item Styles */
+li {
+    background: #f9f9f9;
+    /* Light gray background for list items */
+    margin: 15px 0;
+    /* Space between list items */
+    padding: 15px;
+    /* Padding inside the list items */
+    border-radius: 6px;
+    /* Rounded corners */
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    /* Subtle shadow for depth */
+    display: flex;
+    /* Use flexbox for layout */
+    justify-content: space-between;
+    /* Space between items */
+    align-items: center;
+    /* Center items vertically */
+}
+
+/* Username Styles */
+.username {
+    font-weight: 500;
+    /* Medium font weight for username */
+    color: #333;
+    /* Dark color for username */
+}
+
+/* Report Link Styles */
+.report-link {
+    text-decoration: none;
+    /* Remove underline from links */
+    color: #007BFF;
+    /* Blue color for links */
+    font-weight: 600;
+    /* Semi-bold font weight for emphasis */
+    padding: 8px 12px;
+    /* Padding for the button */
+    border: 2px solid #007BFF;
+    /* Border for button-like appearance */
+    border-radius: 4px;
+    /* Slightly rounded corners */
+    transition: background-color 0.3s, color 0.3s, transform 0.2s;
+    /* Smooth transition for hover effects */
+}
+
+/* Report Link Hover Styles */
+.report-link:hover {
+    background-color: #007BFF;
+    /* Change background color on hover */
+    color: #fff;
+    /* Change text color on hover */
+    transform: translateY(-2px);
+    /* Slight lift effect on hover */
+}
+
+/* Logout Link Styles */
+.logout-link {
+    display: block;
+    /* Display logout as block element */
+    text-align: center;
+    /* Center the logout link */
+    margin-top: 30px;
+    /* Space above the logout link */
+    font-weight: 600;
+    /* Semi-bold font weight */
+    color: #d9534f;
+    /* Red color for logout */
+    padding: 12px 20px;
+    /* Padding for logout link */
+    border: 2px solid #d9534f;
+    /* Border for button-like appearance */
+    border-radius: 4px;
+    /* Rounded corners */
+    transition: background-color 0.3s, color 0.3s, transform 0.2s;
+    /* Smooth transition for hover effects */
+}
+
+/* Logout Link Hover Styles */
+.logout-link:hover {
+    color: #fff;
+    /* Change color on hover */
+    background-color: #d9534f;
+    /* Change background on hover */
+    transform: translateY(-2px);
+    /* Slight lift effect on hover */
+}
+
+
+.feedback-btn {
+    background-color: #2E7D32;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.feedback-btn:hover {
+    background-color: #256029;
+}
+
+.feedback-form-container {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+}
+
+.feedback-form-container label {
+    display: block;
+    margin-top: 10px;
+}
+
+.feedback-form-container input,
+.feedback-form-container textarea {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.submit-btn {
+    background-color: #2E7D32;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.submit-btn:hover {
+    background-color: #256029;
+}

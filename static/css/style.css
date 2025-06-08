@@ -1,0 +1,116 @@
+/* General body styling */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: url('login.jpg') no-repeat center center fixed;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: #333;
+}
+
+/* Chat container styling */
+.container {
+    max-width: 800px; /* Increased width */
+    width: 95%;
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.9) 0%, rgba(249, 249, 249, 0.9) 100%);
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2);
+    border: 1px solid #e0e0e0;
+    border-radius: 15px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+    transition: box-shadow 0.3s ease;
+}
+
+/* Hover effect for container */
+.container:hover {
+    box-shadow: 0 12px 35px rgba(0, 0, 0, 0.3);
+}
+
+/* Header styling */
+.header {
+    background-color: #2E7D32;
+    color: #ffffff;
+    text-align: center;
+    padding: 15px 0;
+    position: relative;
+    font-size: 1.5rem;
+    border-radius: 10px 10px 0 0;
+    margin: -25px -25px 20px -25px;
+}
+
+/* Logout button styling */
+.logout-btn {
+    background-color: #D32F2F;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    position: absolute;
+    right: 20px;
+    top: 10px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+    z-index: 1;
+}
+
+.logout-btn:hover {
+    background-color: #B71C1C;
+}
+
+/* Options grid styling */
+.options-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+    margin: 20px 0;
+}
+
+/* Option card styling */
+.option-card {
+    background-color: rgba(255, 255, 255, 0.8); /* Reduced opacity */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    text-align: center;
+    height: 150px; /* Increased height */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.option-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+/* Option card title styling */
+.option-card h2 {
+    color: #2E7D32;
+    margin-bottom: 10px;
+}
+
+/* Option card description styling */
+.option-card p {
+    color: #666;
+}
+
+/* Responsive layout for smaller screens */
+@media screen and (max-width: 600px) {
+    .container {
+        width: 100%;
+        margin: 0;
+        border-radius: 0;
+    }
+
+    .options-grid {
+        grid-template-columns: 1fr;
+    }
+}

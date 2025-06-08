@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AI EI Predictor</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/ai_style.css') }}">
+    <a href="{{ url_for('index') }}" class="back-button">← Back to Home</a>
+</head>
+<body>
+    <div class="container">
+        <h2>Emotional Intelligence Synthetic Predictor</h2>
+        <form method="POST" class="form-box">
+            Gender:
+            <select name="Gender">
+                {% for val in dropdowns['Gender'] %}
+                    <option value="{{ val }}">{{ val }}</option>
+                {% endfor %}
+            </select><br>
+
+            Age:
+            <select name="Age">
+                {% for val in dropdowns['Age'] %}
+                    <option value="{{ val }}">{{ val }}</option>
+                {% endfor %}
+            </select><br>
+
+            Course:
+            <select name="Course">
+                {% for val in dropdowns['Course'] %}
+                    <option value="{{ val }}">{{ val }}</option>
+                {% endfor %}
+            </select><br>
+
+            EI_Score:
+            <select name="EI_Score">
+                {% for val in dropdowns['EI_Score'] %}
+                    <option value="{{ val }}">{{ val }}</option>
+                {% endfor %}
+            </select><br>
+
+            Social_Media_Hours:
+            <select name="Social_Media_Hours">
+                {% for val in dropdowns['Social_Media_Hours'] %}
+                    <option value="{{ val }}">{{ val }}</option>
+                {% endfor %}
+            </select><br><br>
+
+            Study_Technique_Effectiveness:
+            <select name="Study_Technique_Effectiveness">
+                {% for val in dropdowns['Study_Technique_Effectiveness'] %}
+                    <option value="{{ val }}">{{ val }}</option>
+                {% endfor %}
+            </select><br><br>
+
+            <input type="submit" value="Predict">
+        </form>
+
+        {% if prediction %}
+            <div class="result-box">
+                <h3>Prediction: {{ prediction }}</h3>
+                <p>Probability of High EI: {{ probability }}</p>
+            </div>
+        {% endif %}
+
+        {% if explanation %}
+            <div class="explanation-box">
+                <h4>Why this Recommendation?</h4>
+                <p>{{ explanation }}</p>
+            </div>
+        {% endif %}
+    </div>
+</body>
+</html>

@@ -1,0 +1,1001 @@
+Student_ID,Age,Gender,Academic_Performance,AI_Exposure_Level,EI_Score,Preferred_AI_Feature,Satisfaction_With_AI_Interaction,Emotion_Recognition_By_AI_Accuracy (%),Willingness_To_Use_EI_Aware_AI_Tools,Simulated_Response,Sentiment,HERA_Recommendation
+S1000,23,Male,8,High,81,Chatbot,3,63.35,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1001,20,Male,6.46,High,49,Emotional Support Bot,5,76.73,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1002,29,Other,8.47,Medium,71,Feedback System,3,92.94,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1003,27,Male,9.3,Low,98,Emotional Support Bot,2,66.29,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1004,24,Other,8.9,High,73,Chatbot,1,97.7,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1005,29,Other,5.2,Medium,48,Feedback System,4,56.09,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1006,21,Other,7.4,Medium,56,Emotional Support Bot,3,50.91,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1007,23,Female,5.52,Medium,50,Emotional Support Bot,2,95.21,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1008,26,Female,6.21,High,71,TutorBot,4,53.43,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1009,19,Female,9.93,High,49,TutorBot,4,99.59,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1010,23,Other,5.71,Low,61,TutorBot,5,97.57,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1011,27,Female,7.49,Low,96,Feedback System,4,56.85,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1012,27,Female,8.09,High,56,Chatbot,2,76.88,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1013,24,Male,8.51,Medium,43,Chatbot,2,59.25,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1014,21,Female,7.8,Medium,87,TutorBot,3,71.41,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1015,20,Female,5.05,Medium,91,TutorBot,3,53.07,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1016,24,Other,6.63,Low,86,TutorBot,3,61.2,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1017,24,Other,7.59,Medium,64,Emotional Support Bot,4,68.16,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1018,19,Other,5.44,Low,98,TutorBot,4,71.93,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1019,22,Other,6.75,Low,60,Emotional Support Bot,5,98.87,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1020,21,Other,5.17,Medium,76,Chatbot,3,90.39,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1021,18,Other,5.39,Medium,77,Feedback System,1,86.87,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1022,24,Female,6.98,High,88,Feedback System,5,76.85,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1023,28,Other,5.66,High,40,Feedback System,1,92,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1024,22,Other,7.84,Medium,64,Feedback System,4,66.97,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1025,18,Male,8.45,Low,90,Emotional Support Bot,5,85.44,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1026,28,Female,9,Low,75,Emotional Support Bot,5,99.69,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1027,21,Female,6,Low,56,TutorBot,2,65.73,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1028,17,Female,5.84,Low,80,Emotional Support Bot,4,83.7,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1029,28,Other,5.52,Low,63,TutorBot,4,92.22,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1030,26,Other,8.18,High,41,TutorBot,5,95.79,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1031,22,Other,8.53,Medium,79,Feedback System,4,85.9,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1032,29,Male,5.16,High,54,Emotional Support Bot,5,64.18,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1033,28,Other,9.68,Low,71,Emotional Support Bot,2,66.31,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1034,25,Male,5.26,Low,78,TutorBot,5,51.04,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1035,17,Female,7.71,Low,98,TutorBot,4,88.04,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1036,27,Other,8.55,Low,45,Chatbot,4,52.14,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1037,27,Male,9.35,Medium,40,Chatbot,5,93.23,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1038,26,Male,8.57,Low,86,TutorBot,5,55.93,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1039,28,Other,9.01,Medium,62,Chatbot,5,58.59,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1040,28,Female,6.7,Low,97,Chatbot,3,73.83,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1041,19,Female,9.07,Medium,78,TutorBot,4,86.89,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1042,28,Female,5.4,High,100,TutorBot,4,56.95,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1043,23,Male,9.47,Low,96,Emotional Support Bot,3,72,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1044,20,Male,7.74,Medium,56,TutorBot,5,74.14,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1045,25,Male,9.09,High,73,TutorBot,2,60.61,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1046,19,Male,7.26,Low,98,Feedback System,5,55.78,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1047,21,Female,8.22,Low,80,Emotional Support Bot,5,91.82,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1048,19,Other,7.63,Low,68,Emotional Support Bot,3,75.12,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1049,23,Male,8.66,Medium,48,Emotional Support Bot,4,50.72,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1050,21,Male,5.41,Medium,52,Feedback System,5,90.15,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1051,25,Female,5.3,High,45,TutorBot,4,99.04,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1052,23,Other,6.24,Medium,45,Emotional Support Bot,1,80.3,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1053,18,Other,5.8,Medium,59,Emotional Support Bot,4,75.19,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1054,20,Female,9.36,Low,91,Chatbot,2,93.92,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1055,25,Female,6.1,Low,92,Emotional Support Bot,2,97.63,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1056,28,Other,9.88,Low,42,TutorBot,5,87.73,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1057,18,Male,6.68,Low,56,TutorBot,4,72.27,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1058,26,Other,5.91,Low,88,Chatbot,5,79.61,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1059,25,Female,8.95,Low,51,Emotional Support Bot,3,85.05,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1060,26,Male,8.29,Low,87,Emotional Support Bot,2,59.71,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1061,21,Male,7.49,High,86,Emotional Support Bot,5,72.36,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1062,18,Female,7.78,High,84,Feedback System,3,91.49,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1063,20,Female,8.6,High,94,Emotional Support Bot,5,82.74,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1064,28,Female,6.14,High,40,TutorBot,4,70.56,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1065,28,Other,9.98,Low,56,TutorBot,4,83.17,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1066,23,Other,9.87,High,42,Feedback System,4,55.91,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1067,28,Male,8.25,Low,65,Feedback System,4,70.07,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1068,29,Female,6,High,54,Emotional Support Bot,1,89.66,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1069,24,Male,8.4,Medium,75,Chatbot,3,61.03,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1070,19,Male,5.36,High,71,Feedback System,3,59.3,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1071,17,Male,5.15,High,71,Feedback System,4,97.54,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1072,20,Male,6.29,Low,43,Emotional Support Bot,1,60.49,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1073,18,Female,7.31,High,57,Emotional Support Bot,4,63.05,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1074,24,Male,9.34,Medium,88,Feedback System,1,98.48,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1075,20,Female,8.64,Low,58,Chatbot,4,86.74,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1076,18,Female,8.71,Low,82,Feedback System,2,84.98,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1077,22,Other,7.13,High,91,Emotional Support Bot,2,92.65,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1078,22,Female,6.73,Low,74,Emotional Support Bot,5,55.79,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1079,26,Other,6.86,Low,79,Feedback System,4,85.3,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1080,20,Female,9.94,Low,53,Chatbot,3,75.18,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1081,22,Female,5.2,Low,97,Feedback System,5,91.46,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1082,29,Female,9.34,Low,72,Feedback System,2,75.41,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1083,18,Other,7.89,Low,53,Emotional Support Bot,4,81.01,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1084,26,Other,7.19,Medium,73,Chatbot,5,73.89,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1085,28,Male,8.63,High,100,TutorBot,4,73.91,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1086,18,Other,7.43,Medium,94,Chatbot,2,88.4,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1087,26,Other,9.37,Low,43,Feedback System,5,81.43,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1088,20,Other,9.5,Low,63,Feedback System,2,81.66,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1089,24,Other,7.11,High,98,Feedback System,1,72.51,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1090,23,Male,6.38,Medium,68,Chatbot,2,76.56,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1091,28,Other,7.96,High,58,Emotional Support Bot,4,87.29,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1092,25,Female,9.56,Medium,45,Feedback System,3,91.3,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1093,24,Female,6.05,Low,96,Feedback System,2,84.83,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1094,21,Other,8.11,High,72,Chatbot,3,96.2,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1095,29,Other,8.16,High,88,TutorBot,1,91.02,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1096,18,Female,8.67,Low,79,TutorBot,5,78.09,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1097,21,Female,5.66,High,58,Emotional Support Bot,5,83.57,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1098,24,Male,8.58,Medium,92,Emotional Support Bot,3,96.32,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1099,26,Female,9.55,Medium,40,Feedback System,5,80.96,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1100,25,Female,5.9,Medium,44,Chatbot,2,91.24,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1101,28,Other,6.19,Medium,66,Feedback System,3,84.44,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1102,28,Female,9.86,Low,55,Emotional Support Bot,4,77.6,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1103,28,Male,5.9,High,45,Chatbot,2,62.09,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1104,29,Female,9.27,Medium,79,Chatbot,2,71.3,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1105,25,Other,7.46,Low,52,Emotional Support Bot,2,98.39,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1106,29,Other,6.24,High,87,TutorBot,4,82.89,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1107,29,Female,9.35,High,74,TutorBot,1,78.22,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1108,17,Other,7.23,Low,58,Chatbot,5,96.65,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1109,25,Male,7.57,Low,51,Feedback System,3,79.33,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1110,23,Male,6.8,Medium,55,TutorBot,1,76.3,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1111,25,Female,7.96,High,98,Feedback System,3,87.97,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1112,24,Female,5.82,High,82,TutorBot,5,85.63,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1113,17,Female,6.96,Low,49,TutorBot,4,59.66,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1114,28,Other,9.85,High,64,Feedback System,2,73.57,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1115,24,Male,6.29,Medium,59,Emotional Support Bot,2,73.63,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1116,24,Male,8.28,High,70,TutorBot,4,68.91,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1117,27,Other,6.63,Low,43,TutorBot,1,75.86,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1118,19,Male,8.87,Low,83,Feedback System,1,70.66,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1119,17,Female,5.65,Medium,62,Emotional Support Bot,3,59.97,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1120,24,Female,9.85,Medium,41,TutorBot,4,70.62,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1121,19,Female,7.27,High,95,TutorBot,1,53.61,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1122,19,Male,6.18,High,61,Emotional Support Bot,4,78.79,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1123,17,Female,5.37,Low,90,TutorBot,5,92.68,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1124,27,Other,5.85,Medium,96,Emotional Support Bot,2,86.26,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1125,21,Other,7.6,Medium,76,Emotional Support Bot,2,68.02,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1126,26,Male,6.69,Medium,47,Feedback System,2,54.35,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1127,23,Other,9.14,High,46,Chatbot,4,60.11,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1128,26,Other,7.15,Medium,53,Emotional Support Bot,4,77.27,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1129,25,Male,6.24,Low,95,Feedback System,3,60.35,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1130,28,Female,8.09,Low,94,Chatbot,2,77.2,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1131,23,Female,8.53,High,42,TutorBot,3,61.58,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1132,25,Female,5.84,High,89,Chatbot,2,92.45,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1133,24,Male,5.84,Medium,55,Emotional Support Bot,3,69.86,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1134,28,Other,5.18,High,94,Emotional Support Bot,3,62.28,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1135,18,Female,8.68,Low,58,Emotional Support Bot,5,90.62,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1136,17,Female,8.32,Medium,90,Emotional Support Bot,3,67.14,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1137,23,Male,7.37,Low,57,Emotional Support Bot,4,55.57,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1138,23,Female,9.22,Medium,91,Feedback System,3,78.52,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1139,24,Male,9.03,High,55,Emotional Support Bot,2,79.08,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1140,21,Other,7.93,Medium,47,Feedback System,3,85.73,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1141,19,Male,9.34,Medium,99,TutorBot,1,62.01,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1142,28,Male,6.03,Low,72,Emotional Support Bot,2,72.19,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1143,24,Male,5.56,Low,88,Emotional Support Bot,1,64.12,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1144,22,Male,6.35,Medium,51,Chatbot,2,54.05,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1145,27,Other,5.29,High,92,TutorBot,4,93.83,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1146,19,Other,7.66,High,50,Emotional Support Bot,4,86.44,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1147,17,Female,9.68,Low,44,Emotional Support Bot,4,65.07,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1148,19,Other,5.2,High,66,TutorBot,1,79.97,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1149,21,Other,5.61,Low,51,Feedback System,5,60.06,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1150,19,Female,7.26,High,56,Emotional Support Bot,2,94.51,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1151,17,Other,9.67,Medium,45,Chatbot,4,55.75,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1152,21,Male,6.58,Low,72,Emotional Support Bot,2,50.19,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1153,26,Male,7.54,Low,44,Chatbot,1,75.1,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1154,23,Female,5.21,Medium,96,Chatbot,5,79.16,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1155,23,Female,5.74,Low,67,Emotional Support Bot,1,78.95,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1156,27,Female,9.93,High,53,Emotional Support Bot,2,52.73,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1157,25,Male,9.83,High,44,Chatbot,5,65.7,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1158,26,Other,5.02,Low,93,TutorBot,5,74.96,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1159,26,Male,9.76,High,95,TutorBot,1,60.83,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1160,28,Female,8.2,Low,98,Emotional Support Bot,4,93.63,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1161,29,Other,9.34,Medium,72,Feedback System,2,54.36,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1162,19,Other,7.27,Low,89,TutorBot,3,74.37,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1163,23,Male,7.58,Medium,87,Emotional Support Bot,3,84.57,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1164,17,Female,7.44,High,80,TutorBot,1,63.09,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1165,20,Male,8.33,Medium,58,Feedback System,2,81.21,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1166,29,Other,5.7,High,61,Emotional Support Bot,2,91.47,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1167,20,Male,5.15,Low,44,Feedback System,1,59.52,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1168,21,Male,6.54,High,98,Emotional Support Bot,2,95.86,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1169,23,Female,8.52,Low,41,Feedback System,4,77.68,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1170,23,Female,6.01,Low,69,TutorBot,1,64.96,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1171,29,Other,8.37,Medium,86,TutorBot,4,71.54,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1172,27,Male,9.85,Medium,78,Feedback System,2,65.61,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1173,29,Male,5.47,Medium,43,Feedback System,1,86.26,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1174,20,Male,8.36,Medium,72,Feedback System,2,89.82,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1175,29,Other,7.22,High,52,Emotional Support Bot,1,91.65,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1176,23,Other,9.34,High,59,TutorBot,2,99.29,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1177,27,Female,5.89,High,93,Emotional Support Bot,4,89.56,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1178,19,Female,8.46,Low,46,TutorBot,4,80.07,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1179,22,Female,9.19,High,54,Chatbot,2,66.96,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1180,28,Male,9.72,High,62,Emotional Support Bot,1,77.23,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1181,18,Male,8.42,High,53,TutorBot,3,52.05,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1182,26,Female,7.49,Medium,62,TutorBot,4,87.24,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1183,29,Male,8.09,High,58,Emotional Support Bot,4,72.3,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1184,25,Female,9.34,Low,93,Emotional Support Bot,3,51,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1185,21,Other,7.85,Medium,68,TutorBot,2,53.13,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1186,22,Female,5.15,Low,95,Emotional Support Bot,1,69.37,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1187,28,Other,9.65,High,59,Feedback System,2,79.17,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1188,28,Male,8.45,Medium,68,Emotional Support Bot,5,73.21,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1189,28,Female,8.38,Low,63,Emotional Support Bot,4,80.96,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1190,28,Male,6.08,High,57,Emotional Support Bot,5,74.01,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1191,20,Other,8.29,Low,49,TutorBot,4,83.09,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1192,27,Other,6.97,Low,80,Feedback System,4,60.96,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1193,26,Other,8.26,Low,96,Chatbot,5,55.64,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1194,23,Male,5.53,High,47,Chatbot,5,79.82,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1195,28,Male,8.29,High,65,Feedback System,2,74.23,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1196,25,Male,10,Low,68,Feedback System,5,51.34,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1197,23,Male,5.24,Medium,49,Feedback System,2,69.02,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1198,17,Other,9.89,Medium,56,TutorBot,2,55.31,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1199,17,Other,7.03,High,41,Chatbot,2,76.57,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1200,25,Female,9.35,High,45,Feedback System,4,69.79,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1201,27,Female,8.91,High,97,TutorBot,4,80.66,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1202,25,Male,7.84,High,44,Chatbot,5,90.28,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1203,20,Other,8.69,High,67,Emotional Support Bot,4,64.98,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1204,29,Other,9.39,Medium,80,TutorBot,5,98.11,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1205,25,Other,7.02,High,44,Chatbot,4,76.78,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1206,19,Female,6.64,Low,57,TutorBot,1,80.91,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1207,23,Female,8.34,Low,65,Chatbot,1,84.03,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1208,22,Other,9.04,Medium,59,Chatbot,5,83.34,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1209,24,Other,8.81,Low,80,Emotional Support Bot,4,75.55,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1210,27,Other,8.99,Medium,88,TutorBot,4,71.44,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1211,25,Female,7.18,Medium,66,Feedback System,2,52.69,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1212,21,Other,9.09,Low,88,Emotional Support Bot,3,51.1,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1213,17,Other,5.6,High,51,Emotional Support Bot,5,67.9,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1214,19,Male,7.72,Low,46,Chatbot,3,66.68,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1215,26,Male,5.03,Low,98,Feedback System,3,69.38,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1216,28,Female,6.62,Medium,42,TutorBot,5,56.92,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1217,24,Other,6.83,Low,49,Feedback System,4,86.91,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1218,27,Other,6.98,Medium,73,Feedback System,5,92.85,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1219,22,Male,8.48,High,64,Feedback System,3,96.94,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1220,24,Female,6.94,High,74,Feedback System,4,74.62,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1221,25,Male,7.24,High,55,Feedback System,1,85.04,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1222,20,Male,6.19,Low,41,Chatbot,5,92.78,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1223,17,Male,6.87,Medium,99,Chatbot,5,70.91,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1224,17,Male,6.14,High,63,Emotional Support Bot,4,65.47,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1225,26,Other,5.37,Medium,49,Chatbot,1,96.84,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1226,20,Other,8.02,Medium,77,Emotional Support Bot,1,75.78,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1227,28,Male,8.34,High,61,Emotional Support Bot,4,74.86,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1228,23,Female,8.1,High,65,TutorBot,2,58.92,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1229,18,Female,7.32,Medium,82,Feedback System,5,55.41,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1230,19,Female,6.9,High,94,Chatbot,5,92.11,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1231,17,Female,9.32,Medium,78,TutorBot,3,80.71,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1232,21,Male,7.6,Medium,66,Chatbot,4,66.29,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1233,17,Other,7.4,High,68,Emotional Support Bot,3,59.59,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1234,24,Female,5.13,Low,86,Chatbot,3,77.77,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1235,17,Male,6.71,High,77,Feedback System,1,79.2,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1236,27,Female,6.9,Low,59,Emotional Support Bot,5,60.35,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1237,17,Female,6.99,Medium,66,Emotional Support Bot,3,92.57,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1238,18,Male,7.9,Medium,80,TutorBot,1,54.21,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1239,18,Other,7.67,Low,93,Feedback System,4,67.8,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1240,28,Other,8.04,Medium,59,Emotional Support Bot,3,84.02,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1241,22,Male,8.82,Low,83,Feedback System,5,63.71,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1242,23,Other,9.06,Low,58,Chatbot,3,91.38,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1243,21,Male,8.59,Medium,59,Feedback System,4,86.99,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1244,17,Male,9.78,Low,74,Emotional Support Bot,3,89.45,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1245,17,Male,5.09,High,86,TutorBot,5,55.96,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1246,19,Other,5.98,High,41,Emotional Support Bot,1,57.03,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1247,18,Male,5.04,Medium,69,Feedback System,5,64.32,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1248,21,Female,8.24,Medium,92,Feedback System,1,75.9,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1249,28,Other,9.49,Low,73,Emotional Support Bot,2,87.4,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1250,26,Other,6.22,Low,61,Feedback System,5,91.83,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1251,22,Other,9.64,Low,42,Chatbot,5,85.22,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1252,23,Other,5.3,Low,45,Emotional Support Bot,4,96.43,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1253,20,Female,9.67,High,54,TutorBot,3,86.94,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1254,23,Other,6.76,High,66,Emotional Support Bot,1,65.31,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1255,27,Other,5.51,Medium,49,Chatbot,1,63.25,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1256,24,Male,7.43,Low,48,Chatbot,4,84.81,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1257,27,Other,6.28,Low,72,Chatbot,4,59.64,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1258,17,Female,6.42,Medium,71,Chatbot,3,54.64,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1259,22,Female,6.54,Low,87,Chatbot,3,76.61,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1260,24,Female,9.02,Low,45,TutorBot,5,91.08,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1261,21,Female,7.7,Low,80,Feedback System,2,55.07,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1262,20,Other,6.56,Low,98,Chatbot,3,89.59,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1263,18,Other,8.05,Low,75,Chatbot,4,90.58,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1264,22,Female,8.58,Medium,98,Emotional Support Bot,3,74.11,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1265,22,Female,6.36,Low,99,TutorBot,1,52.87,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1266,27,Other,7.07,Medium,41,TutorBot,2,58.73,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1267,17,Female,5.61,Low,68,Feedback System,5,85.37,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1268,25,Male,5.91,High,43,TutorBot,1,85.59,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1269,28,Female,8.41,High,40,Emotional Support Bot,1,94.92,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1270,27,Female,5.91,High,58,Emotional Support Bot,2,79.13,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1271,22,Male,7.63,High,65,Feedback System,5,56.21,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1272,29,Male,8.55,Medium,64,Emotional Support Bot,4,56.07,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1273,19,Other,5.53,Medium,49,Chatbot,5,86.06,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1274,20,Other,7.84,Low,92,Chatbot,3,59.19,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1275,28,Male,6.28,High,54,Emotional Support Bot,1,66.42,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1276,27,Male,9.81,Medium,98,Feedback System,3,74.36,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1277,20,Other,7.42,Low,61,TutorBot,4,51.24,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1278,19,Female,9.03,Low,90,Feedback System,3,62.44,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1279,26,Male,7.75,Medium,87,TutorBot,5,70.39,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1280,19,Other,5.22,High,60,Emotional Support Bot,3,63.98,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1281,19,Female,8.17,Low,98,Emotional Support Bot,4,56.82,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1282,20,Male,9.76,High,95,Chatbot,4,86.4,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1283,23,Female,8.01,High,61,TutorBot,4,90.66,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1284,20,Other,9.1,High,75,Feedback System,5,62.87,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1285,25,Male,9.42,Low,73,Emotional Support Bot,4,88.72,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1286,17,Female,6.14,High,69,Feedback System,1,69.28,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1287,24,Male,6.06,Low,64,Chatbot,4,75.33,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1288,23,Female,8.05,High,84,TutorBot,3,92.8,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1289,18,Other,7.06,Low,67,TutorBot,3,87.5,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1290,24,Other,9.2,High,40,Emotional Support Bot,3,90.26,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1291,17,Male,9.5,Medium,88,TutorBot,5,56.84,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1292,27,Female,6.77,High,84,Emotional Support Bot,3,53.49,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1293,28,Male,6.18,High,43,Chatbot,5,94.67,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1294,25,Male,8.9,Low,46,TutorBot,5,69.39,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1295,25,Female,6.37,Low,88,Emotional Support Bot,4,64.39,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1296,18,Female,9.11,High,48,Feedback System,1,86.23,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1297,23,Female,7.12,Medium,75,Emotional Support Bot,4,91.82,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1298,26,Other,8.34,Medium,58,TutorBot,4,93.12,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1299,19,Male,5.48,Low,40,Chatbot,5,65.8,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1300,23,Male,8.12,Medium,49,TutorBot,5,92.61,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1301,28,Other,7.26,High,75,TutorBot,3,52.05,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1302,26,Female,7.93,Low,48,Emotional Support Bot,3,52.48,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1303,25,Other,5.84,High,84,Feedback System,4,81.18,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1304,20,Other,8.68,Low,85,TutorBot,2,53.16,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1305,28,Other,9.31,Low,81,Feedback System,2,66.23,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1306,17,Male,6.08,Low,71,Emotional Support Bot,3,83.64,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1307,18,Other,5.48,Low,71,Feedback System,2,66.86,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1308,17,Male,5.12,Medium,45,Emotional Support Bot,3,58.98,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1309,28,Male,8.21,High,87,Chatbot,5,64.07,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1310,21,Male,8.04,High,77,Feedback System,4,72.88,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1311,21,Female,7.73,High,56,Feedback System,1,73.77,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1312,27,Male,6.16,Low,49,Chatbot,4,89.15,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1313,23,Male,6.95,Medium,89,Feedback System,3,87.51,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1314,25,Female,7.97,High,66,Chatbot,3,72.84,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1315,25,Male,7.48,Medium,93,TutorBot,4,92.28,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1316,19,Other,9.94,Low,89,Emotional Support Bot,3,55.71,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1317,19,Other,5.68,High,74,Chatbot,2,62.77,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1318,19,Male,8.48,Medium,91,Feedback System,2,91.4,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1319,20,Female,7.02,Low,98,Chatbot,3,68.9,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1320,24,Other,7.14,Medium,60,Feedback System,3,99.06,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1321,22,Female,8.59,High,64,TutorBot,2,73.31,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1322,24,Female,8.46,High,67,Chatbot,3,89.6,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1323,17,Other,9.96,Low,86,TutorBot,3,70.12,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1324,24,Female,5.64,Low,54,Emotional Support Bot,4,71.25,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1325,20,Other,5.52,Low,43,Feedback System,1,69.14,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1326,27,Female,8.62,Medium,68,Feedback System,2,85.95,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1327,17,Other,7.89,Medium,98,TutorBot,4,77.38,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1328,24,Male,6.37,Medium,48,Emotional Support Bot,1,97.19,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1329,20,Other,5.4,Low,66,Chatbot,3,62.54,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1330,22,Other,5.43,High,65,Chatbot,3,55.03,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1331,24,Other,9.47,High,58,Feedback System,4,69.66,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1332,20,Other,5.96,Medium,95,TutorBot,3,80.84,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1333,19,Female,6.62,Medium,67,TutorBot,5,93.04,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1334,25,Male,6.13,High,56,Chatbot,4,67.31,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1335,19,Other,6.77,High,82,Emotional Support Bot,1,82.69,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1336,25,Female,5.35,Medium,96,Emotional Support Bot,4,67.51,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1337,29,Male,7.6,Medium,80,Chatbot,2,80.86,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1338,18,Male,5.34,High,81,Chatbot,4,94.24,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1339,18,Male,9,Low,89,TutorBot,3,61.57,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1340,18,Male,6.17,Medium,59,Emotional Support Bot,3,70.21,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1341,22,Other,7.7,High,84,Chatbot,5,99.66,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1342,19,Other,9.4,High,79,Chatbot,5,93.43,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1343,29,Female,8.25,High,78,Feedback System,5,78.23,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1344,25,Female,7.66,High,88,Chatbot,1,75.83,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1345,20,Female,6.62,Low,92,Chatbot,5,64.23,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1346,17,Male,6.67,High,62,Emotional Support Bot,1,75.86,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1347,20,Male,8.35,Medium,86,TutorBot,5,92.41,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1348,17,Other,9.97,Low,71,Emotional Support Bot,1,84.26,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1349,21,Male,8.31,High,91,TutorBot,4,64.5,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1350,20,Male,7.79,Low,86,Feedback System,4,60.07,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1351,24,Male,8.65,Medium,72,Chatbot,3,63.26,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1352,24,Female,7.33,High,96,Feedback System,1,58.49,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1353,23,Female,5.3,Medium,85,TutorBot,2,54.78,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1354,19,Other,7.81,High,44,Emotional Support Bot,3,70.96,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1355,17,Male,9.79,High,82,Emotional Support Bot,4,55.66,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1356,17,Male,5.88,High,87,Feedback System,1,58.6,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1357,28,Other,8.45,High,73,TutorBot,5,77.37,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1358,27,Male,6,High,79,Feedback System,2,58.23,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1359,19,Male,7.68,Low,50,Feedback System,4,53.19,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1360,22,Female,5.48,High,100,Chatbot,3,65.87,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1361,23,Other,7.25,High,89,Feedback System,1,61.02,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1362,22,Other,8.78,Low,42,Chatbot,2,75.77,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1363,22,Other,6.74,Low,97,Chatbot,1,55.12,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1364,22,Other,8.32,Low,72,Emotional Support Bot,5,87.59,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1365,29,Female,8.98,Low,50,Chatbot,3,95.31,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1366,19,Female,9.64,Low,55,Chatbot,1,87.17,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1367,22,Male,6.17,Low,57,Emotional Support Bot,4,76.64,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1368,24,Male,7,High,69,Feedback System,3,93.03,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1369,27,Male,5.76,High,87,TutorBot,4,84.75,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1370,27,Male,9.96,Medium,94,TutorBot,1,50.53,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1371,18,Female,9.64,High,49,TutorBot,3,69.7,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1372,21,Other,7.7,High,57,Feedback System,4,92.55,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1373,17,Female,9.21,Low,77,Chatbot,5,67.29,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1374,28,Male,7.6,Low,58,TutorBot,5,51.76,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1375,17,Female,8.12,High,75,Feedback System,1,87.31,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1376,21,Other,5.45,Medium,98,Chatbot,3,90.1,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1377,28,Other,8.78,Low,52,Emotional Support Bot,2,58.03,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1378,29,Female,5.64,High,95,TutorBot,3,76.87,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1379,19,Female,9.13,High,85,Chatbot,5,59.6,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1380,20,Female,8.91,Medium,42,TutorBot,4,85.96,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1381,19,Male,8.54,Medium,49,TutorBot,2,63.58,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1382,17,Female,5.18,Low,77,TutorBot,1,65.81,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1383,17,Female,6.52,Medium,40,Chatbot,2,92.25,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1384,28,Female,6.32,High,94,Feedback System,1,73.82,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1385,28,Other,6.8,High,95,Chatbot,2,83.49,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1386,29,Other,5.44,Medium,66,TutorBot,1,70.12,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1387,21,Male,9.68,Medium,85,Chatbot,1,64.9,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1388,22,Male,7.77,Medium,47,Emotional Support Bot,2,81.27,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1389,19,Other,6.53,Medium,90,Feedback System,2,57.74,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1390,28,Other,6.98,Low,85,Chatbot,1,68.65,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1391,25,Other,7.24,Medium,81,Emotional Support Bot,5,60.45,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1392,21,Female,8,Low,56,Feedback System,2,84.79,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1393,24,Female,7.58,High,48,Emotional Support Bot,3,97.21,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1394,29,Other,9.6,Medium,100,Feedback System,4,99.78,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1395,17,Female,7.48,Low,45,Chatbot,1,72.51,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1396,21,Female,9.96,Medium,82,Emotional Support Bot,1,62.63,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1397,19,Male,9.26,High,64,TutorBot,4,72.14,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1398,28,Other,6.04,High,78,Emotional Support Bot,5,92.36,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1399,17,Other,9.65,High,88,Feedback System,4,60.3,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1400,20,Female,5.58,Medium,99,Chatbot,2,97.6,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1401,29,Other,9.09,Medium,67,Feedback System,4,67.09,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1402,21,Male,6.9,Low,72,Emotional Support Bot,1,99.29,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1403,23,Male,9.39,High,93,Emotional Support Bot,4,91.93,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1404,17,Male,9.34,Medium,76,TutorBot,3,90.43,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1405,19,Other,9.03,High,48,Chatbot,2,65.9,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1406,18,Other,8.95,High,57,Chatbot,4,50.44,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1407,25,Other,6.52,Low,95,Emotional Support Bot,1,69.11,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1408,26,Other,5.4,Low,98,Chatbot,2,65.09,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1409,22,Other,7.01,Low,60,TutorBot,1,51.87,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1410,26,Male,5.87,Low,41,Feedback System,5,75.27,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1411,19,Female,8.47,High,100,Chatbot,3,70.15,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1412,24,Male,6.73,Low,97,Emotional Support Bot,5,81.73,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1413,24,Other,9.88,Low,82,Feedback System,3,81.06,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1414,18,Male,8.2,Low,98,Feedback System,4,56.04,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1415,22,Other,9.11,Low,99,TutorBot,2,98.85,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1416,23,Other,5.66,High,77,Emotional Support Bot,4,59.35,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1417,18,Male,9.31,Low,97,Chatbot,3,72.26,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1418,27,Other,9.61,High,79,Emotional Support Bot,3,74.41,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1419,26,Female,7.44,Medium,75,Feedback System,3,90.65,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1420,18,Other,8.03,High,89,Emotional Support Bot,1,54.96,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1421,26,Female,8.82,High,99,Chatbot,2,71.43,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1422,17,Female,5.87,Low,82,Chatbot,4,81.43,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1423,24,Other,7.51,Medium,76,TutorBot,4,60.76,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1424,17,Male,6.99,Medium,54,Chatbot,5,81.37,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1425,25,Female,5.73,Medium,67,Chatbot,3,96.18,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1426,27,Male,6.84,Medium,57,Emotional Support Bot,3,99.88,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1427,22,Female,5.34,High,73,Emotional Support Bot,3,51.62,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1428,23,Other,5.13,Medium,61,Feedback System,4,61.78,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1429,29,Other,5.68,High,50,TutorBot,5,65.52,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1430,26,Female,9.82,High,97,Emotional Support Bot,1,69.96,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1431,23,Other,7.75,High,96,Chatbot,2,62.11,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1432,26,Female,9.83,Medium,52,Feedback System,1,60.17,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1433,19,Other,7.16,Low,43,Emotional Support Bot,4,97.73,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1434,18,Male,6.56,Low,61,TutorBot,3,95.93,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1435,25,Other,7.53,Medium,46,TutorBot,2,52.35,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1436,24,Male,7.2,Low,100,Feedback System,4,66.94,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1437,29,Other,5.53,Low,82,Feedback System,4,70.26,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1438,28,Male,8.2,High,93,Feedback System,4,61.95,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1439,26,Other,6.08,High,63,Feedback System,2,81.44,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1440,23,Male,8.1,Medium,43,Feedback System,2,82.02,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1441,25,Female,8.25,Medium,67,Chatbot,5,92.53,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1442,20,Female,5.76,Low,54,Chatbot,5,87.04,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1443,29,Male,5.31,High,40,Emotional Support Bot,1,77.13,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1444,20,Other,8.9,Medium,94,TutorBot,2,82.68,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1445,17,Male,7.3,Medium,42,Chatbot,2,63.7,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1446,24,Other,5.29,Medium,53,Chatbot,2,79.65,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1447,28,Female,9.97,Medium,77,Chatbot,5,74.46,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1448,19,Other,5.29,Medium,89,Emotional Support Bot,4,56.67,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1449,23,Female,8.48,Medium,96,Feedback System,3,62.13,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1450,28,Other,9.92,Low,40,Emotional Support Bot,5,64.58,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1451,18,Other,6.2,High,77,TutorBot,2,96.22,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1452,18,Other,5.71,High,77,TutorBot,5,61.52,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1453,23,Male,5.61,Medium,60,TutorBot,1,64.46,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1454,22,Male,6.52,High,87,TutorBot,2,68.47,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1455,19,Female,5.51,High,68,Chatbot,1,83.19,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1456,25,Female,8.46,High,44,Chatbot,2,55.91,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1457,26,Male,5.31,Medium,88,Emotional Support Bot,5,97.7,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1458,29,Female,7.55,Medium,49,Feedback System,4,93.28,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1459,22,Male,9.98,High,67,TutorBot,3,78.86,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1460,26,Other,9.07,High,60,Emotional Support Bot,1,83.7,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1461,26,Female,8.08,Medium,89,Chatbot,5,50.83,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1462,22,Female,6.53,Low,46,Chatbot,4,66.95,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1463,17,Male,8.12,High,42,Feedback System,5,89.78,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1464,20,Female,7.64,Low,84,Feedback System,1,53.87,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1465,26,Female,7.13,High,86,Feedback System,3,64.12,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1466,22,Other,5.65,Low,59,Emotional Support Bot,5,79.26,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1467,22,Female,9.43,Low,58,Chatbot,2,62.82,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1468,27,Other,7.25,Low,74,Chatbot,4,96.7,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1469,28,Male,5.97,Medium,43,Feedback System,5,56.55,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1470,21,Female,6.84,Low,44,TutorBot,4,89.87,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1471,17,Other,7.07,Low,40,Feedback System,2,75.4,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1472,24,Male,9.14,Low,43,Emotional Support Bot,3,87.52,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1473,21,Female,8.67,High,51,Feedback System,3,65.54,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1474,28,Male,8.85,Low,99,Feedback System,2,75.72,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1475,28,Female,5.06,High,66,Emotional Support Bot,4,92.84,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1476,28,Male,7.08,Low,95,Feedback System,5,73.34,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1477,21,Male,7.41,Low,81,Chatbot,2,67.99,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1478,23,Other,5.1,Medium,62,TutorBot,1,76.81,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1479,20,Male,6.3,High,64,Feedback System,4,85.87,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1480,22,Female,8.8,Low,60,Emotional Support Bot,3,72.18,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1481,29,Female,5.69,High,100,TutorBot,2,96.94,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1482,20,Other,7.68,High,97,Emotional Support Bot,3,64.75,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1483,19,Female,6.08,Medium,91,TutorBot,4,73.77,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1484,23,Female,5.06,Medium,63,TutorBot,3,87.85,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1485,24,Female,6.21,Medium,64,Feedback System,2,84.46,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1486,20,Male,9.88,Medium,84,Chatbot,4,93.18,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1487,29,Male,9.01,Medium,94,Feedback System,1,99.84,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1488,18,Female,9.8,Medium,85,Emotional Support Bot,2,71.34,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1489,28,Other,7.44,Medium,71,Emotional Support Bot,5,55.56,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1490,26,Male,5.55,Medium,94,TutorBot,2,51.52,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1491,19,Other,7.74,Low,71,TutorBot,4,86.34,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1492,17,Female,7.27,High,44,Chatbot,2,93.7,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1493,24,Female,9.22,Medium,75,Feedback System,1,61.04,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1494,19,Male,5.49,Medium,85,Emotional Support Bot,1,57.92,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1495,28,Female,7.44,High,81,TutorBot,5,53.11,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1496,26,Male,5.75,Low,88,Chatbot,3,91.14,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1497,23,Female,6.62,High,81,Emotional Support Bot,4,65.57,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1498,26,Female,8.69,High,97,TutorBot,4,70.08,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1499,21,Male,7.38,Medium,78,Emotional Support Bot,3,75.14,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1500,26,Male,6.88,High,55,Chatbot,1,91.97,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1501,21,Male,6.97,High,72,Chatbot,1,82.54,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1502,23,Female,7.3,Medium,88,Emotional Support Bot,2,80.75,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1503,25,Female,8.93,Medium,60,Feedback System,5,58.78,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1504,28,Other,9.46,Medium,100,Emotional Support Bot,5,75.66,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1505,21,Male,9.78,Medium,48,TutorBot,5,85.77,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1506,17,Female,8.93,High,45,Feedback System,2,98.66,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1507,26,Female,6.58,High,90,TutorBot,5,60.07,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1508,26,Male,8.44,Low,84,Emotional Support Bot,3,50.48,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1509,17,Other,7.19,Low,74,Feedback System,2,53.77,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1510,18,Male,6.27,High,78,TutorBot,3,68.79,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1511,22,Other,9.2,Low,61,Emotional Support Bot,2,91.03,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1512,25,Female,5.19,High,80,Emotional Support Bot,5,50.36,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1513,24,Other,9.51,Low,93,Feedback System,3,72.84,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1514,29,Female,7.31,Medium,44,Emotional Support Bot,3,66.46,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1515,21,Male,8.19,Low,81,Chatbot,3,52.62,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1516,17,Male,8.3,Medium,62,TutorBot,2,72.51,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1517,29,Male,9.48,Medium,56,TutorBot,4,62.74,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1518,23,Other,8.18,Medium,51,Emotional Support Bot,5,67.59,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1519,21,Female,8.07,Medium,62,Emotional Support Bot,3,85.28,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1520,22,Male,5.33,Low,55,Chatbot,4,76.08,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1521,29,Male,7.59,High,42,Feedback System,5,56.23,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1522,23,Female,5.75,Medium,69,Emotional Support Bot,5,98.07,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1523,19,Male,8.69,Low,96,Emotional Support Bot,3,81.8,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1524,28,Female,7.56,Medium,61,Emotional Support Bot,3,88.29,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1525,26,Female,8.4,Low,48,Emotional Support Bot,2,53.96,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1526,19,Female,5.21,Low,68,TutorBot,4,52.35,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1527,21,Female,5.42,Low,86,Emotional Support Bot,4,50.97,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1528,22,Female,8.58,High,76,TutorBot,3,59.44,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1529,25,Other,5.36,Low,62,Emotional Support Bot,5,70.72,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1530,29,Male,5.36,Low,52,Feedback System,3,96.79,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1531,28,Other,5.06,High,71,Chatbot,5,72.85,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1532,21,Male,9.78,High,85,Feedback System,5,64.51,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1533,17,Other,8.69,Low,91,Emotional Support Bot,3,78.1,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1534,20,Female,6.77,High,86,Emotional Support Bot,1,55.6,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1535,21,Male,6.48,Medium,87,Emotional Support Bot,4,80.48,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1536,28,Male,6.75,Medium,62,Feedback System,5,78.42,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1537,26,Other,8.87,High,84,Emotional Support Bot,5,89.6,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1538,26,Other,8.31,High,56,Feedback System,1,99.33,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1539,21,Male,5.93,Low,94,TutorBot,2,62.54,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1540,23,Other,5.87,High,79,Chatbot,1,75.48,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1541,20,Other,5.49,Low,60,Chatbot,1,95.44,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1542,17,Other,8.3,Medium,41,Feedback System,5,89.26,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1543,21,Female,8.82,High,76,TutorBot,4,74.37,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1544,23,Female,6.33,Low,45,Feedback System,1,97.27,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1545,26,Other,5.1,Low,83,TutorBot,2,52.86,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1546,26,Other,5.41,Medium,57,Emotional Support Bot,3,96.55,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1547,22,Female,9.84,High,69,TutorBot,1,52.53,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1548,21,Female,6.48,Medium,61,TutorBot,1,77.37,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1549,20,Male,8.85,Low,93,TutorBot,2,94.52,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1550,18,Male,8.12,Low,72,Chatbot,4,63.14,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1551,20,Female,6.91,High,69,TutorBot,1,73.61,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1552,26,Other,6.03,Low,56,Emotional Support Bot,1,66.22,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1553,26,Other,5.61,High,82,Emotional Support Bot,4,97.61,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1554,19,Other,8.08,Medium,71,Emotional Support Bot,2,91.18,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1555,26,Other,8.87,High,81,TutorBot,1,85.45,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1556,17,Male,8.22,High,90,Feedback System,4,79.38,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1557,24,Female,7.65,Low,53,Feedback System,1,91.03,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1558,21,Other,5.21,Low,97,Emotional Support Bot,3,69.61,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1559,29,Male,9.84,High,49,Chatbot,5,72.38,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1560,20,Other,8.99,Low,86,Feedback System,3,86.5,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1561,24,Female,6.46,Low,99,TutorBot,1,67.89,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1562,23,Male,9.9,Low,90,Feedback System,2,53.2,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1563,18,Female,8.01,High,75,Emotional Support Bot,5,53.72,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1564,17,Female,7.91,Low,73,Chatbot,3,55.77,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1565,28,Male,8.74,High,48,Feedback System,4,93.48,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1566,27,Male,9.06,Low,81,Feedback System,2,73.61,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1567,20,Male,8.28,Medium,67,Emotional Support Bot,3,85.64,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1568,24,Male,5.64,Low,50,Chatbot,4,69.65,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1569,28,Male,6.69,Low,53,Chatbot,1,62.94,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1570,18,Male,9.64,High,78,Emotional Support Bot,4,67.36,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1571,19,Male,6.12,High,94,TutorBot,3,89.71,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1572,28,Other,6.86,Low,86,Feedback System,3,81.26,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1573,17,Female,7.16,Medium,93,TutorBot,1,96.88,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1574,17,Male,7.2,Low,58,Feedback System,4,83.99,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1575,29,Other,8.06,Low,93,Feedback System,4,78.51,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1576,19,Other,9.72,Medium,54,TutorBot,1,80.51,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1577,27,Other,6.2,High,67,Emotional Support Bot,4,97.12,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1578,21,Female,5.61,Low,63,Emotional Support Bot,1,89.41,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1579,28,Male,5.99,High,47,Feedback System,2,51.2,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1580,19,Other,9.43,High,82,Emotional Support Bot,3,76.71,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1581,17,Female,8.23,Medium,100,Feedback System,2,84.42,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1582,17,Female,6.43,Medium,48,Emotional Support Bot,5,87.43,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1583,24,Female,9.08,High,86,Feedback System,5,60.66,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1584,26,Other,9.31,Low,72,Emotional Support Bot,5,93.36,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1585,27,Male,9.23,High,72,Chatbot,1,97.79,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1586,28,Other,9.59,Low,58,TutorBot,4,61.84,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1587,29,Other,6.26,Low,42,Chatbot,2,94.13,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1588,29,Male,8.78,Medium,49,TutorBot,2,54.85,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1589,28,Male,7.3,Low,79,TutorBot,2,52.79,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1590,18,Male,9.21,Low,86,Feedback System,2,56.46,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1591,29,Female,8.64,High,81,TutorBot,5,52.89,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1592,19,Male,8.88,Medium,40,Chatbot,2,92.25,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1593,18,Other,8.28,Low,68,Chatbot,4,52.95,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1594,19,Male,5.89,Low,89,Emotional Support Bot,5,63.58,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1595,23,Other,7.73,Medium,73,Chatbot,2,55.19,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1596,17,Female,9.92,High,90,Emotional Support Bot,1,64.77,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1597,26,Other,9.69,Medium,52,TutorBot,3,54.53,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1598,24,Other,5.22,Medium,93,Chatbot,3,83.4,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1599,29,Male,5.82,Low,40,TutorBot,3,56.67,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1600,26,Male,5.66,Low,73,Chatbot,5,92.59,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1601,26,Other,8.63,High,68,Chatbot,2,90.86,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1602,26,Male,9.09,Low,87,Emotional Support Bot,5,50.68,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1603,18,Female,6.07,Low,86,TutorBot,4,94.79,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1604,19,Female,7.53,Medium,52,Chatbot,1,51.45,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1605,25,Male,9.2,Low,87,Feedback System,1,61.98,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1606,23,Female,8.66,High,88,TutorBot,3,51.62,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1607,20,Male,7.71,Medium,92,TutorBot,3,66.79,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1608,26,Other,7.95,High,100,TutorBot,3,75.69,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1609,21,Other,7.54,Medium,68,Emotional Support Bot,2,89.83,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1610,18,Female,6.49,Low,78,Feedback System,4,66.9,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1611,29,Male,7.83,Medium,63,TutorBot,4,85.27,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1612,27,Male,8.44,Medium,65,Chatbot,4,59.38,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1613,29,Female,9.37,Low,56,Chatbot,4,87.53,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1614,24,Other,8.18,Low,46,Emotional Support Bot,3,61.8,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1615,20,Female,8.81,High,52,Chatbot,1,57.18,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1616,25,Other,5.8,High,44,TutorBot,3,59.27,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1617,21,Male,7.31,Low,65,Chatbot,4,59.1,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1618,29,Other,5.05,Low,88,TutorBot,3,75.64,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1619,25,Female,6.23,Low,42,Chatbot,4,92.24,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1620,20,Male,8.63,Medium,46,Feedback System,5,53.98,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1621,26,Female,9.96,Medium,97,Emotional Support Bot,1,85.35,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1622,21,Female,5.5,Medium,88,Emotional Support Bot,5,82.72,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1623,25,Other,7.01,Low,78,Feedback System,2,93.63,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1624,24,Female,9,High,92,Feedback System,3,62.21,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1625,19,Other,6.02,Low,40,Emotional Support Bot,2,72.51,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1626,17,Male,7.78,Medium,88,Feedback System,3,96.29,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1627,19,Other,8.67,Medium,56,TutorBot,5,83,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1628,20,Male,8.08,Low,82,Chatbot,4,69.44,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1629,18,Other,5.94,Low,64,Emotional Support Bot,4,56.57,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1630,17,Female,6.78,Medium,98,Feedback System,3,63.12,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1631,23,Other,8.92,Medium,100,TutorBot,4,79.06,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1632,24,Other,7.77,Medium,42,Emotional Support Bot,5,85.91,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1633,23,Male,5.03,Low,54,Feedback System,4,56.22,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1634,21,Female,8.8,Medium,68,Emotional Support Bot,5,79.98,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1635,28,Other,5.18,Medium,92,Feedback System,2,77.52,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1636,17,Female,8.73,High,82,Emotional Support Bot,5,75.7,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1637,23,Other,6.01,Low,71,TutorBot,1,84.51,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1638,29,Other,9.79,High,65,TutorBot,1,91.87,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1639,23,Female,6.84,High,99,Chatbot,1,66.15,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1640,25,Other,6.63,Medium,55,Emotional Support Bot,3,94.45,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1641,19,Female,5.74,Low,64,Chatbot,3,58.03,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1642,25,Other,6.53,Medium,93,Emotional Support Bot,3,58.65,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1643,17,Male,9.38,Low,67,Feedback System,5,63.34,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1644,17,Female,9.98,High,48,Feedback System,3,55.98,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1645,20,Other,6.84,Low,95,Chatbot,2,61.52,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1646,25,Other,7.24,Medium,95,Emotional Support Bot,1,55.32,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1647,22,Male,8.61,Medium,40,Chatbot,5,91.09,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1648,29,Female,9.43,Medium,68,TutorBot,1,56.95,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1649,27,Other,7.97,Low,96,Chatbot,3,87.36,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1650,19,Male,6.96,High,61,Chatbot,5,52.4,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1651,17,Other,7.06,High,55,Feedback System,4,97.43,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1652,20,Female,8.48,Low,80,Chatbot,2,85.56,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1653,28,Other,5.02,Medium,90,Emotional Support Bot,3,50.34,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1654,29,Other,8.1,High,83,Feedback System,3,88.19,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1655,25,Other,6.78,Medium,90,Chatbot,2,75.7,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1656,19,Other,8.97,Low,93,TutorBot,2,88.97,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1657,28,Male,5.46,Medium,80,Chatbot,4,76.12,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1658,25,Male,7.94,High,46,Chatbot,3,82.05,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1659,23,Female,7.4,High,53,Chatbot,3,89.32,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1660,28,Male,8.21,Medium,68,Feedback System,1,70.26,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1661,20,Male,5.32,Low,58,Emotional Support Bot,5,50.14,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1662,19,Female,7.9,Medium,58,TutorBot,5,92.5,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1663,26,Male,7.81,Low,41,Chatbot,1,69.04,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1664,21,Male,7.8,Medium,80,Emotional Support Bot,5,74.8,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1665,21,Female,8.02,High,84,Emotional Support Bot,2,50.39,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1666,19,Female,8.38,Low,54,Feedback System,5,74.6,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1667,28,Female,9.02,Low,42,TutorBot,5,99.32,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1668,25,Other,6.35,Low,50,Feedback System,1,63.91,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1669,20,Other,9.13,High,92,Emotional Support Bot,4,69.77,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1670,27,Female,7.49,Medium,85,Emotional Support Bot,5,84.36,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1671,21,Female,5.39,High,69,Emotional Support Bot,5,90.74,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1672,20,Female,5.29,Low,96,Feedback System,4,70.87,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1673,21,Other,6.67,Medium,79,TutorBot,1,65.48,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1674,23,Other,8.92,High,57,Chatbot,4,96.89,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1675,25,Male,8.54,Low,90,Feedback System,1,83.86,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1676,23,Male,8.94,Low,87,Emotional Support Bot,2,55.95,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1677,29,Female,7.59,High,41,Feedback System,1,53.45,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1678,21,Other,7.2,High,71,Emotional Support Bot,2,74.18,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1679,26,Other,5.74,High,47,Chatbot,2,61,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1680,26,Other,6.64,Low,61,Chatbot,1,62.7,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1681,23,Female,7.17,High,45,TutorBot,3,93.88,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1682,26,Male,5.44,Low,51,Emotional Support Bot,1,54.48,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1683,21,Female,6.1,High,86,TutorBot,5,85.77,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1684,19,Male,7.99,Low,96,TutorBot,5,63.56,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1685,23,Male,8.68,Low,79,Chatbot,3,88.02,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1686,29,Female,9.99,Medium,75,Feedback System,2,86.12,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1687,27,Male,9.67,High,54,Feedback System,3,50.37,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1688,27,Male,8.21,High,67,TutorBot,5,75.46,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1689,18,Other,7.11,Low,91,Chatbot,3,56.97,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1690,28,Male,8.18,Low,96,Emotional Support Bot,1,93.31,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1691,25,Female,8.93,Low,88,Feedback System,3,93.58,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1692,26,Female,5.59,Medium,84,TutorBot,2,70.92,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1693,26,Male,7.05,Medium,57,Feedback System,1,72.22,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1694,28,Other,9.2,Low,41,Feedback System,4,65.16,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1695,17,Other,6.92,High,52,Emotional Support Bot,5,85.83,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1696,29,Male,7.86,High,84,Chatbot,5,67.93,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1697,22,Male,7.94,Medium,93,Emotional Support Bot,3,63.39,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1698,23,Female,5.92,Medium,54,Chatbot,1,71.61,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1699,29,Male,6.81,Low,59,Feedback System,4,54.57,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1700,24,Other,6.67,High,68,TutorBot,1,87.33,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1701,26,Male,5.13,Low,98,Emotional Support Bot,5,50.63,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1702,25,Female,5.12,Medium,81,Chatbot,1,82.22,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1703,18,Female,9.16,High,68,Feedback System,4,59.14,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1704,27,Female,6.37,High,42,Chatbot,3,61.62,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1705,26,Female,7.59,Medium,58,Chatbot,2,81.78,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1706,18,Female,6.49,Low,42,Chatbot,1,99.65,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1707,21,Male,9.7,Low,93,Feedback System,2,88.89,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1708,29,Male,6.3,High,53,TutorBot,5,61.29,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1709,21,Male,7.15,Medium,79,TutorBot,3,58.8,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1710,22,Male,9.36,High,98,TutorBot,3,93.31,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1711,19,Female,9.21,Medium,94,Chatbot,1,72.21,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1712,24,Other,5.93,Low,43,Feedback System,3,56.85,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1713,29,Male,9.01,Medium,98,Chatbot,1,93.11,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1714,17,Other,7.29,Low,99,TutorBot,1,90.8,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1715,22,Male,7.41,Medium,91,TutorBot,2,99.2,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1716,20,Male,5.67,High,50,Feedback System,3,95.49,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1717,17,Other,5.4,Low,97,Chatbot,1,92.59,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1718,23,Female,8.64,High,70,Emotional Support Bot,2,52.63,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1719,25,Male,7.48,High,82,Emotional Support Bot,4,55.22,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1720,29,Male,7.18,Low,71,TutorBot,2,78.45,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1721,20,Male,8.65,Low,66,Feedback System,2,76.57,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1722,20,Other,8.83,High,69,Chatbot,1,72.9,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1723,22,Female,5.79,High,82,Chatbot,5,69.84,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1724,28,Other,8.05,High,41,TutorBot,5,71.56,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1725,19,Other,5.68,High,88,TutorBot,5,78.46,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1726,29,Female,8.76,Low,48,Chatbot,2,50.1,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1727,28,Other,8.28,Low,67,Chatbot,1,63.04,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1728,22,Female,9.78,High,70,TutorBot,3,75.91,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1729,23,Male,5.34,Medium,99,Chatbot,2,86.11,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1730,27,Female,5.29,Medium,73,Emotional Support Bot,2,58.71,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1731,26,Male,6.41,Low,100,TutorBot,1,77.34,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1732,26,Other,6.31,High,95,Chatbot,4,85.72,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1733,19,Other,6.23,High,54,TutorBot,2,72.23,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1734,23,Male,9.53,Low,87,Feedback System,4,51.35,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1735,19,Other,6.25,Medium,64,TutorBot,4,72.46,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1736,29,Female,6.36,Medium,75,TutorBot,5,64.82,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1737,29,Male,8.8,Medium,47,Feedback System,1,96.48,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1738,18,Other,7.25,Low,48,Emotional Support Bot,4,56.23,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1739,28,Male,8.88,Medium,97,Chatbot,1,82.62,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1740,26,Female,5.33,Low,97,Feedback System,5,52.64,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1741,20,Female,7.44,Low,76,TutorBot,1,72.31,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1742,28,Other,5.17,High,87,Chatbot,2,77.7,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1743,24,Female,5.31,Medium,84,Feedback System,4,64.9,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1744,29,Male,9.53,Low,78,Chatbot,1,72.75,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1745,25,Female,5.7,Medium,71,Chatbot,3,58.18,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1746,23,Male,7.66,Medium,97,Feedback System,1,65.21,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1747,17,Male,7.06,High,91,Chatbot,4,81.06,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1748,19,Female,6.74,Medium,56,Emotional Support Bot,5,65.09,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1749,29,Other,9.5,High,74,Feedback System,5,94.99,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1750,28,Female,5.11,Low,76,Emotional Support Bot,4,81.42,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1751,25,Male,8.32,Medium,58,TutorBot,2,71.93,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1752,28,Male,9.82,Low,83,Chatbot,2,51.94,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1753,17,Female,7.8,Medium,68,TutorBot,5,74.98,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1754,25,Other,9.68,Low,98,TutorBot,5,88.24,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1755,24,Other,5.26,Medium,46,Chatbot,4,63.28,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1756,17,Male,7.09,Medium,67,Feedback System,2,90.34,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1757,22,Male,6.3,Medium,48,Chatbot,5,62.59,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1758,21,Other,8.65,Medium,67,TutorBot,2,91.19,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1759,22,Female,9.91,Medium,45,TutorBot,5,54.26,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1760,26,Male,6.28,Medium,68,Feedback System,1,93.31,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1761,28,Male,8.27,Medium,97,Chatbot,3,74.96,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1762,29,Other,5.99,Medium,56,TutorBot,1,64.83,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1763,29,Female,7.83,Medium,55,Emotional Support Bot,5,63.26,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1764,29,Other,7.32,Low,62,TutorBot,3,71.6,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1765,21,Female,9.86,High,70,TutorBot,3,99.95,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1766,22,Female,8.04,Medium,42,Feedback System,5,61.02,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1767,21,Female,6.75,High,60,Emotional Support Bot,5,55.16,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1768,27,Male,5.57,Medium,65,TutorBot,2,79.25,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1769,28,Other,5.76,Medium,75,TutorBot,5,74.43,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1770,21,Other,6.13,Low,81,Emotional Support Bot,4,76.21,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1771,20,Female,6.25,Low,76,Chatbot,5,83.35,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1772,19,Male,9.25,High,92,Chatbot,4,63.36,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1773,19,Male,7.81,Low,61,TutorBot,5,95.53,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1774,20,Other,7.62,Low,81,TutorBot,2,71.78,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1775,25,Male,5.57,High,51,Chatbot,4,56.45,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1776,18,Male,9.3,Low,81,Feedback System,1,87.11,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1777,25,Female,8.61,Medium,100,Emotional Support Bot,4,82.16,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1778,17,Male,5.34,High,52,Emotional Support Bot,2,65.79,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1779,17,Female,8.54,High,50,Feedback System,4,81.08,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1780,21,Other,7.72,Medium,93,Feedback System,5,60.99,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1781,22,Male,5.41,Low,55,Feedback System,5,72.24,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1782,22,Other,7.29,High,47,Feedback System,2,94.97,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1783,19,Other,7.42,High,79,Feedback System,3,56.68,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1784,23,Male,5.83,Medium,98,Feedback System,5,69.33,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1785,25,Male,9.73,Medium,96,Emotional Support Bot,1,91.06,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1786,27,Other,9.25,Low,79,Feedback System,2,98.47,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1787,28,Male,8.35,High,84,Chatbot,4,72.7,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1788,26,Female,7.31,Low,98,Feedback System,4,75.35,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1789,24,Female,7.06,Low,41,Feedback System,1,78.61,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1790,22,Male,8.25,Medium,69,Emotional Support Bot,5,96.62,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1791,28,Other,7.73,High,69,Emotional Support Bot,2,92.91,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1792,24,Male,5.31,High,51,Feedback System,1,58.53,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1793,28,Male,7.56,High,49,Emotional Support Bot,5,71.84,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1794,21,Other,9.03,Medium,83,TutorBot,2,73.2,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1795,24,Other,7.3,Medium,50,Emotional Support Bot,4,89.45,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1796,26,Female,5.26,Medium,54,Emotional Support Bot,2,80.14,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1797,28,Other,8.93,Medium,55,Emotional Support Bot,3,82.71,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1798,20,Female,6.01,Medium,56,Emotional Support Bot,2,99.91,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1799,26,Other,6.29,High,65,Chatbot,3,53.75,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1800,24,Male,5.82,Low,41,Chatbot,2,61.15,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1801,26,Female,6.65,High,89,Chatbot,3,70.39,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1802,28,Female,8.78,Low,51,Feedback System,4,67.39,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1803,18,Female,7.6,Medium,90,Feedback System,5,51.08,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1804,28,Male,6.02,Low,65,TutorBot,3,54.59,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1805,28,Male,9.39,High,62,Chatbot,3,84.05,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1806,21,Male,9.4,High,57,Feedback System,4,93.97,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1807,25,Male,9.35,Low,71,Emotional Support Bot,3,75.71,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1808,20,Male,6.19,Medium,88,Emotional Support Bot,1,76.96,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1809,27,Female,7.26,Medium,77,Chatbot,4,62.75,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1810,22,Male,9.92,High,96,TutorBot,1,88.39,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1811,17,Female,8.86,Low,86,TutorBot,4,87.59,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1812,25,Male,5.14,Medium,42,Emotional Support Bot,3,79.42,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1813,17,Other,5.33,Medium,77,TutorBot,1,60.63,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1814,21,Female,7.32,High,42,Chatbot,3,54.85,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1815,20,Other,9.55,Medium,69,Emotional Support Bot,4,53.21,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1816,29,Female,7.69,Low,100,Feedback System,3,79.63,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1817,28,Other,7.49,High,40,Feedback System,1,91.25,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1818,29,Male,5.53,High,69,TutorBot,1,92.92,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1819,29,Male,8.28,Low,84,Emotional Support Bot,3,73.18,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1820,19,Male,9.11,High,71,Emotional Support Bot,2,89.21,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1821,29,Female,6.9,Medium,67,Feedback System,4,97.34,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1822,22,Other,8.88,Medium,60,Emotional Support Bot,4,63.76,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1823,18,Male,9.82,Low,97,Emotional Support Bot,3,69.9,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1824,19,Other,6.02,Medium,85,Emotional Support Bot,2,96.57,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1825,21,Other,7.62,Low,52,TutorBot,1,66.91,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1826,25,Male,6.44,Low,66,Emotional Support Bot,5,95.69,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1827,18,Male,8.96,Medium,75,Chatbot,5,99.05,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1828,26,Other,7.89,Low,46,TutorBot,3,83.09,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1829,24,Male,8.17,Medium,61,Emotional Support Bot,2,90.84,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1830,18,Male,8.99,High,49,Emotional Support Bot,2,87.48,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1831,27,Male,6.98,High,78,Chatbot,4,84.98,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1832,29,Female,9.58,Low,92,TutorBot,1,65.35,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1833,21,Other,7.67,Medium,54,Feedback System,2,52.85,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1834,23,Other,5.79,Medium,54,Feedback System,5,67.15,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1835,24,Female,8.48,High,43,TutorBot,1,83.35,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1836,17,Other,8.97,High,71,Emotional Support Bot,1,55.13,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1837,22,Male,6.58,Medium,62,Emotional Support Bot,3,50.6,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1838,17,Other,9.29,Low,94,Feedback System,2,56.98,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1839,18,Male,9.53,High,45,Feedback System,3,85.79,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1840,17,Female,6.38,Low,63,Feedback System,2,98.64,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1841,27,Male,9.92,Low,59,Chatbot,4,99.15,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1842,21,Other,5.7,High,97,Feedback System,3,74.7,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1843,26,Other,6.01,Low,76,Chatbot,3,93.47,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1844,25,Other,5.92,Low,59,TutorBot,5,86.84,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1845,22,Female,9.47,Medium,51,Emotional Support Bot,3,75.05,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1846,27,Female,8.27,Low,72,Feedback System,2,78.64,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1847,27,Other,5.76,Medium,67,Emotional Support Bot,5,56.86,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1848,17,Male,7.2,High,47,Emotional Support Bot,3,96.88,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1849,29,Female,8.08,High,40,Feedback System,3,67.6,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1850,17,Other,5.42,Medium,76,Feedback System,4,72.31,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1851,18,Other,9.41,High,61,TutorBot,3,83.58,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1852,25,Female,9.02,Low,45,Chatbot,1,66.7,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1853,19,Female,7.53,Low,100,Chatbot,5,62.71,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1854,17,Female,9.84,Low,60,Emotional Support Bot,1,81.55,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1855,21,Male,7.09,High,71,Feedback System,5,51.25,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1856,23,Male,9.92,Low,74,TutorBot,4,86.04,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1857,22,Other,8.34,High,54,TutorBot,3,75.7,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1858,28,Female,8.17,Low,44,TutorBot,3,80.29,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1859,17,Male,5.83,Medium,99,TutorBot,3,81.59,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1860,21,Female,9.41,High,95,TutorBot,5,76.35,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1861,21,Other,7.14,High,85,Chatbot,3,79.13,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1862,22,Male,5.81,Low,89,Chatbot,1,84.19,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1863,19,Male,5.06,High,87,Chatbot,3,87.66,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1864,21,Male,7.8,High,45,Feedback System,4,86.37,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1865,23,Other,7.64,Medium,64,Emotional Support Bot,1,93.48,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1866,21,Female,8.6,Medium,95,TutorBot,3,59.47,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1867,21,Male,9.45,Low,85,Feedback System,3,70.06,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1868,21,Other,5.4,Medium,98,TutorBot,2,97.39,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1869,26,Female,8.66,Low,95,Chatbot,5,69.83,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1870,26,Other,5.94,Low,79,Feedback System,1,56.24,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1871,19,Female,9.29,Low,68,Chatbot,2,76.27,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1872,17,Other,9.1,High,46,TutorBot,4,55.47,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1873,21,Female,7.7,Medium,79,TutorBot,5,60.14,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1874,25,Male,8.55,Low,52,Emotional Support Bot,1,99.92,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1875,17,Female,6.57,Medium,77,TutorBot,3,77.07,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1876,19,Other,7.36,Low,57,Chatbot,1,64.2,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1877,29,Other,9.11,Medium,41,TutorBot,3,99.74,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1878,29,Female,7.3,Medium,47,Emotional Support Bot,5,98.33,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1879,20,Male,6.79,Low,50,Emotional Support Bot,3,72.04,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1880,17,Male,7.47,High,72,Chatbot,4,63.02,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1881,17,Female,9.14,Medium,93,Feedback System,3,91.92,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1882,24,Female,6.68,High,100,TutorBot,4,85.78,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1883,18,Other,5.87,High,77,Emotional Support Bot,5,84.35,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1884,28,Male,8.56,Low,87,TutorBot,5,94.66,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1885,24,Female,9.13,Low,66,TutorBot,1,84.47,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1886,23,Male,5.5,Low,59,Feedback System,4,64.19,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1887,26,Female,6.2,Medium,51,Emotional Support Bot,4,84.69,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1888,26,Female,5.71,Low,82,TutorBot,2,65.29,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1889,18,Male,6.74,Low,100,Emotional Support Bot,2,87.96,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1890,22,Female,7.25,Medium,70,Chatbot,2,80.99,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1891,22,Female,8.74,Medium,66,Chatbot,3,53.87,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1892,19,Other,8.26,Low,71,TutorBot,2,75.64,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1893,27,Female,8.1,Low,100,Emotional Support Bot,4,67.17,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1894,18,Female,6.76,Low,49,TutorBot,3,66.43,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1895,28,Female,9.21,Low,42,Emotional Support Bot,5,80.11,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1896,17,Other,7.36,High,84,Emotional Support Bot,1,66.12,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1897,22,Male,9.9,High,66,Feedback System,2,88.84,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1898,28,Other,8.17,Low,74,Feedback System,5,53.54,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1899,21,Other,5.63,High,70,Feedback System,4,83.02,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1900,27,Male,8.38,Medium,54,TutorBot,1,90.46,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1901,25,Other,6.63,High,55,Feedback System,5,83.64,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1902,17,Male,8.43,High,100,Feedback System,1,74.86,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1903,23,Other,5.35,Low,52,Chatbot,2,97.52,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1904,21,Male,5.87,High,88,Emotional Support Bot,4,65,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1905,21,Female,9.28,High,74,Emotional Support Bot,1,50.96,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1906,18,Other,6.14,High,91,Feedback System,5,71.6,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1907,27,Other,9.19,High,50,Emotional Support Bot,2,51.65,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1908,19,Other,6.4,Medium,98,Chatbot,2,97.7,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1909,23,Other,8.21,Low,60,Chatbot,5,60.5,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1910,22,Female,8.47,Low,90,Feedback System,5,89.45,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1911,28,Other,7.56,Medium,93,Chatbot,1,88.73,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1912,18,Female,6.53,High,50,Emotional Support Bot,3,60.89,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1913,22,Female,6.06,Medium,69,TutorBot,2,81.06,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1914,18,Female,5.17,High,99,Emotional Support Bot,1,52.4,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1915,18,Female,6.52,Medium,87,TutorBot,5,74.18,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1916,18,Male,8.27,Low,92,Feedback System,1,50.73,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1917,27,Male,9.69,Low,74,TutorBot,5,96.06,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1918,19,Other,9.36,Low,61,Chatbot,4,98.8,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1919,18,Male,8.83,High,77,Emotional Support Bot,5,61.11,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1920,20,Male,8.94,High,70,TutorBot,5,60.41,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1921,25,Other,8.32,Medium,53,Emotional Support Bot,5,87.69,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1922,22,Other,6.3,Medium,63,Feedback System,3,62.67,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1923,17,Other,9.54,Low,89,Feedback System,5,94.75,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1924,24,Male,8.35,High,88,Chatbot,2,78.7,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1925,28,Male,7.8,Medium,71,Feedback System,2,67.54,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1926,23,Other,5.55,High,75,TutorBot,1,91.63,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1927,26,Female,7.24,High,71,Feedback System,3,74.67,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1928,19,Other,7.3,Low,94,Chatbot,1,95.58,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1929,17,Female,9.32,Low,54,Emotional Support Bot,2,96.4,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1930,21,Female,7.73,High,82,Emotional Support Bot,2,58.27,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1931,29,Other,6.9,High,97,Feedback System,4,50.12,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1932,20,Other,9.88,High,74,TutorBot,5,99.2,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1933,26,Other,5.55,High,42,Chatbot,2,95.31,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1934,24,Male,7.11,Low,55,TutorBot,1,52.77,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1935,17,Female,5.21,Medium,44,Chatbot,1,91.65,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1936,26,Male,8.7,Low,60,Feedback System,5,72.89,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1937,17,Male,9.59,Medium,100,Chatbot,5,62.95,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1938,28,Other,6.4,High,49,Chatbot,4,93.94,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1939,20,Male,9.29,Medium,58,Feedback System,3,59.83,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1940,24,Other,6.46,Low,64,TutorBot,1,97.36,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1941,21,Female,9.55,Low,43,Feedback System,5,60.28,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1942,18,Other,8.77,High,100,Chatbot,1,80.68,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1943,22,Male,9.02,Low,68,Feedback System,5,61.15,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1944,21,Male,5.09,High,58,Chatbot,2,77.28,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1945,18,Other,9.81,Low,82,Feedback System,1,84.2,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1946,29,Other,8.63,Low,41,Emotional Support Bot,2,59.51,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1947,27,Male,6.52,High,49,Emotional Support Bot,1,76.04,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1948,27,Female,9.15,Medium,100,Feedback System,3,73.45,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1949,27,Female,6.41,Low,82,TutorBot,4,53.55,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1950,19,Other,9.36,Medium,64,Chatbot,2,90.92,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1951,25,Female,5.56,Low,59,Emotional Support Bot,5,66.78,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1952,23,Male,8.52,Low,87,TutorBot,3,78.73,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1953,23,Other,7.7,Low,58,Chatbot,1,75.74,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1954,27,Male,5.48,Low,62,Emotional Support Bot,2,75.66,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1955,22,Male,6.21,Medium,63,Emotional Support Bot,1,55.36,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1956,24,Female,5.06,Medium,50,Feedback System,1,71.17,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1957,20,Other,7.34,Low,85,Chatbot,1,72.62,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1958,24,Other,6.51,Low,73,TutorBot,4,86.68,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1959,20,Female,7.99,Medium,94,TutorBot,4,92,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1960,24,Male,6.49,High,67,TutorBot,5,77.25,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1961,25,Male,6.5,High,44,Chatbot,2,54.34,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1962,19,Male,8.72,Medium,98,TutorBot,3,61.84,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1963,19,Male,5.24,Low,44,TutorBot,3,58.25,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1964,27,Other,9.51,Low,90,TutorBot,3,56.23,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1965,29,Other,9.26,High,60,Feedback System,1,68.29,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1966,18,Female,8.34,High,51,Feedback System,4,61.47,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1967,29,Female,7.97,Medium,89,Chatbot,2,60.92,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1968,26,Other,9.46,High,43,Chatbot,1,52.73,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1969,19,Other,5.93,Medium,93,TutorBot,4,50.88,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1970,19,Male,5.39,High,88,Feedback System,4,55.14,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1971,21,Male,6.2,High,81,Emotional Support Bot,2,58.61,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1972,21,Female,8.97,High,59,Emotional Support Bot,2,71.55,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1973,18,Other,5.17,Low,77,TutorBot,2,75.53,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1974,28,Female,7.91,Low,64,TutorBot,1,57.03,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1975,26,Other,9.98,Low,53,Feedback System,5,71.24,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1976,29,Male,9.28,High,50,Feedback System,2,67.09,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1977,22,Female,7.61,Medium,71,Feedback System,5,59.17,Yes,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1978,21,Female,5.32,Medium,50,Chatbot,1,50.34,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1979,22,Other,9.16,Medium,100,Chatbot,5,73.35,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1980,17,Male,7.99,Medium,57,TutorBot,3,84.28,Maybe,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1981,21,Female,5.57,Low,66,Chatbot,5,61.31,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1982,25,Male,5.47,Low,94,Feedback System,2,56.59,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1983,28,Female,9.55,High,93,Feedback System,1,94.35,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1984,26,Male,8.35,High,57,Chatbot,2,63.75,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1985,18,Other,9.15,Medium,95,Emotional Support Bot,3,61.18,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1986,17,Female,9.39,Low,62,TutorBot,2,92.85,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1987,26,Female,7.86,Medium,50,Emotional Support Bot,2,90.86,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1988,29,Male,7.59,High,60,TutorBot,2,72.42,Maybe,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1989,27,Male,7.15,High,83,Emotional Support Bot,4,74.46,Maybe,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1990,25,Female,6.58,Medium,44,Chatbot,3,60.89,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1991,26,Other,7.17,High,62,TutorBot,2,53.92,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1992,25,Male,8.87,Medium,80,TutorBot,2,78.67,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1993,25,Male,8.01,Low,98,TutorBot,2,54.92,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1994,22,Male,9.46,Medium,64,Feedback System,1,72.46,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1995,24,Female,7.22,Low,80,Feedback System,4,97.02,Yes,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1996,27,Female,8.04,Low,93,Emotional Support Bot,1,97.64,No,I feel confident in managing my academics and emotions.,Positive,Motivational Boost + Peer Collaboration
+S1997,29,Female,8.16,High,49,Chatbot,4,61.97,Yes,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique
+S1998,17,Female,7.96,High,61,Feedback System,2,81.21,No,"Sometimes I manage well, but I do feel pressure during exams.",Neutral,Time Management Technique
+S1999,26,Other,8.51,High,58,TutorBot,3,73.7,No,I feel overwhelmed and stressed about my studies.,Neutral,Time Management Technique

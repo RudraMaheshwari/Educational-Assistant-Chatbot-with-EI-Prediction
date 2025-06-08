@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AI EI Predictor</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/ai_style.css') }}">
+    <a href="{{ url_for('index') }}" class="back-button">← Back to Home</a>
+</head>
+<body>
+    <div class="container">
+        <h2>Emotional Intelligence (EI) Predictor</h2>
+        <form method="POST" class="form-box">
+            Gender:
+            <select name="Gender">
+                {% for val in dropdowns['Gender'] %}
+                    <option value="{{ val }}">{{ val }}</option>
+                {% endfor %}
+            </select><br>
+
+            Age:
+            <select name="Age">
+                {% for val in dropdowns['Age'] %}
+                    <option value="{{ val }}">{{ val }}</option>
+                {% endfor %}
+            </select><br>
+
+            Emotion_R:
+            <select name="Emotion_R">
+                {% for val in dropdowns['Emotion_R'] %}
+                    <option value="{{ val }}">{{ val }}</option>
+                {% endfor %}
+            </select><br>
+
+            Academic_:
+            <select name="Academic_">
+                {% for val in dropdowns['Academic_'] %}
+                    <option value="{{ val }}">{{ val }}</option>
+                {% endfor %}
+            </select><br>
+
+            Satisfaction:
+            <select name="Satisfaction">
+                {% for val in dropdowns['Satisfaction'] %}
+                    <option value="{{ val }}">{{ val }}</option>
+                {% endfor %}
+            </select><br><br>
+
+            <input type="submit" value="Predict">
+        </form>
+
+        {% if prediction %}
+            <div class="result-box">
+                <h3>Prediction: {{ prediction }}</h3>
+                <p>Probability of High EI: {{ probability }}</p>
+            </div>
+        {% endif %}
+
+        {% if explanation %}
+            <div class="explanation-box">
+                <h4>Why this Recommendation?</h4>
+                <p>{{ explanation }}</p>
+            </div>
+        {% endif %}
+    </div>
+</body>
+</html>
