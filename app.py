@@ -159,11 +159,11 @@ def ask_questions():
             session.pop('random_questions', None)
 
             return render_template('report_success.html',
-                                   graph_url=image_path,
-                                   positive_count=positive_count,
-                                   neutral_count=neutral_count,
-                                   negative_count=negative_count,
-                                   ai_suggestions=ai_suggestions)
+                                graph_url=image_path,
+                                positive_count=positive_count,
+                                neutral_count=neutral_count,
+                                negative_count=negative_count,
+                                ai_suggestions=ai_suggestions)
 
     current_question = random_questions[question_index]
     return render_template('ask_questions.html', question=current_question)
@@ -186,7 +186,7 @@ def download_graph():
 @login_required
 def report_success():
     return render_template('report_success.html')
- 
+
 @app.route('/generated_reports')
 @login_required
 def generated_reports():
@@ -213,7 +213,7 @@ df.rename(columns={
     "Emotion_Recognition_By_AI_Accuracy_(%)": "Emotion_R"
 }, inplace=True)
 
-dropdown_values = {
+dropdown_values_ai_ei = {
     'Gender': sorted(df['Gender'].astype(str).unique()),
     'Age': sorted(df['Age'].unique()),
     'Emotion_R': sorted(df['Emotion_R'].unique()),
@@ -269,7 +269,7 @@ def predict():
             satisfaction = float(request.form["Satisfaction"])
 
             prediction = random.choice(EI_SUGGESTIONS)
-            probability = f"{random.uniform(60, 95):.2f}%"
+            probability = f"{random.uniform(75, 95):.2f}%"
 
             prompt = f"Explain in around 100 words how this technique helps boost Emotional Intelligence: {prediction}"
             response = model.generate_content(prompt)
@@ -282,7 +282,7 @@ def predict():
 
     return render_template(
         "ai_ei_pred.html",
-        dropdowns=dropdown_values,
+        dropdowns=dropdown_values_ai_ei,
         prediction=prediction,
         probability=probability,
         explanation=explanation
@@ -292,11 +292,10 @@ df2 = pd.read_csv("datasets/Synthetic_Students.csv")
 df2.columns = [col.strip().replace(" ", "_") for col in df2.columns]  
 df2.dropna(inplace=True)
 
-dropdown_values = {
+dropdown_values_syn = {
     'Gender': sorted(df2['Gender'].astype(str).unique()),
     'Age': sorted(df2['Age'].unique()),
     'Course': sorted(df2['Course'].unique()),
-    'EI_Score': sorted(df2['EI_Score'].unique()),
     'Social_Media_Hours': sorted(df2['Social_Media_Hours'].unique()),
     'Study_Technique_Effectiveness': sorted(df2['Study_Technique_Effectiveness'].unique())
 }
@@ -312,7 +311,6 @@ def predict_synthetic():
             gender_raw = request.form["Gender"]
             age = float(request.form["Age"])
             course = str(request.form["Course"])
-            EI_Score = float(request.form["EI_Score"])
             Social_Media_Hours = float(request.form["Social_Media_Hours"])
             Study_Technique_Effectiveness = float(request.form["Study_Technique_Effectiveness"])
 
@@ -330,7 +328,7 @@ def predict_synthetic():
 
     return render_template(
         "synthetic_pred.html",
-        dropdowns=dropdown_values,
+        dropdowns=dropdown_values_syn,
         prediction=prediction,
         probability=probability,
         explanation=explanation
