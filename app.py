@@ -216,7 +216,7 @@ df.rename(columns={
 dropdown_values_ai_ei = {
     'Gender': sorted(df['Gender'].astype(str).unique()),
     'Age': sorted(df['Age'].unique()),
-    'Emotion_R': sorted(df['Emotion_R'].unique()),
+    'AI_Exposure_Level': sorted(df['AI_Exposure_Level'].unique()),
     'Academic_': sorted(df['Academic_Performance'].unique()),
     'Satisfaction': sorted(df['Satisfaction_With_AI_Interaction'].unique())
 }
@@ -264,7 +264,7 @@ def predict():
         try:
             gender_raw = request.form["Gender"]
             age = float(request.form["Age"])
-            emotion_r = float(request.form["Emotion_R"])
+            AI_Exposure_Level = float(request.form["AI_Exposure_Level"])
             academic = float(request.form["Academic_"])
             satisfaction = float(request.form["Satisfaction"])
 
