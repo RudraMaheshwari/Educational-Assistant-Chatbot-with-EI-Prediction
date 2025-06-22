@@ -263,11 +263,18 @@ def predict():
     if request.method == "POST":
         try:
             gender_raw = request.form["Gender"]
-            age = float(request.form["Age"])
-            AI_Exposure_Level = float(request.form["AI_Exposure_Level"])
-            academic = float(request.form["Academic_"])
-            satisfaction = float(request.form["Satisfaction"])
+            age = request.form["Age"]
+            AI_Exposure_Level = request.form["AI_Exposure_Level"]
+            academic = request.form["Academic_CGPA"]
+            satisfaction = request.form["Satisfaction_Rating"]
 
+            # If you actually want to process `age` as float, convert only that:
+            try:
+                age = float(age)
+            except ValueError:
+                raise ValueError("Age must be numeric")
+
+            # Dummy prediction logic
             prediction = random.choice(EI_SUGGESTIONS)
             probability = f"{random.uniform(75, 95):.2f}%"
 
