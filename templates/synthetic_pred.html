@@ -32,11 +32,7 @@
             </select><br>
 
             Social_Media_Hours:
-            <select name="Social_Media_Hours">
-                {% for val in dropdowns['Social_Media_Hours'] %}
-                    <option value="{{ val }}">{{ val }}</option>
-                {% endfor %}
-            </select><br><br>
+            <input type="number" name="Social_Media_Hours" step="0.5" min="0" placeholder="e.g., 1.5"><br><br>
 
             Study_Technique_Effectiveness:
             <select name="Study_Technique_Effectiveness">

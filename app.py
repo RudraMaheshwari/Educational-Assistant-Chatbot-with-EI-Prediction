@@ -266,7 +266,7 @@ def predict():
             age = request.form["Age"]
             AI_Exposure_Level = request.form["AI_Exposure_Level"]
             academic = request.form["Academic_CGPA"]
-            satisfaction = request.form["Satisfaction_Rating"]
+            satisfaction = request.form["Satisfaction_Rating_towards_ai"]
 
             # If you actually want to process `age` as float, convert only that:
             try:

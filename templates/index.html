@@ -26,8 +26,8 @@
         <div class="header bg-green-700 text-white text-center py-4 relative rounded-lg shadow-lg mb-6">
             <h1 class="text-2xl font-bold">Welcome to EduBot, {{ session['username'] }}!</h1>
             <a href="{{ url_for('logout') }}"
-               class="absolute right-3 top-3 bg-red-600 text-white py-1 px-3 rounded hover:bg-red-700 font-bold transition"
-               role="button" aria-label="Logout">
+                class="absolute right-3 top-3 bg-red-600 text-white py-1 px-3 rounded hover:bg-red-700 font-bold transition"
+                role="button" aria-label="Logout">
                 Logout
             </a>
         </div>
@@ -36,7 +36,7 @@
             <!-- Option 1: Talk with Bot -->
             <a href="{{ url_for('talk_with_bot') }}" class="option-card">
                 <div class="bg-white p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300">
-                    <h2 class="text-xl font-bold text-green-700 mb-2">EduBot</h2>
+                    <h2 class="text-xl font-bold text-green-700 mb-2">1. EduBot</h2>
                     <p class="text-gray-700">Discuss your sentiments and educational queries with our AI bot.</p>
                 </div>
             </a>
@@ -44,7 +44,7 @@
             <!-- Option 2: Ask Questions -->
             <a href="{{ url_for('ask_questions') }}" class="option-card">
                 <div class="bg-white p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300">
-                    <h2 class="text-xl font-bold text-green-700 mb-2">Check Sentiment Score</h2>
+                    <h2 class="text-xl font-bold text-green-700 mb-2">2. Check Sentiment Score</h2>
                     <p class="text-gray-700">Ask questions from our predefined list and generate a sentiment graph.</p>
                 </div>
             </a>
@@ -52,7 +52,7 @@
             <!-- Option 3: AI_EI_Prediction -->
             <a href="{{ url_for('predict') }}" class="option-card">
                 <div class="bg-white p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300">
-                    <h2 class="text-xl font-bold text-green-700 mb-2">AI & EI Prediction</h2>
+                    <h2 class="text-xl font-bold text-green-700 mb-2">3. AI & EI Prediction</h2>
                     <p class="text-gray-700">Explore predictions using AI and Emotional Intelligence.</p>
                 </div>
             </a>
@@ -60,7 +60,7 @@
             <!-- Option 4: Synthetic Prediction -->
             <a href="{{ url_for('predict_synthetic') }}" class="option-card">
                 <div class="bg-white p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300">
-                    <h2 class="text-xl font-bold text-green-700 mb-2">Synthetic Prediction</h2>
+                    <h2 class="text-xl font-bold text-green-700 mb-2">4. Synthetic Prediction</h2>
                     <p class="text-gray-700">Discover insights with our synthetic prediction models.</p>
                 </div>
             </a>
@@ -68,7 +68,7 @@
             <!-- Option 5: View Generated Reports -->
             <a href="{{ url_for('generated_reports') }}" class="option-card">
                 <div class="bg-white p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300">
-                    <h2 class="text-xl font-bold text-green-700 mb-2">View Generated Reports</h2>
+                    <h2 class="text-xl font-bold text-green-700 mb-2">5. View Generated Reports</h2>
                     <p class="text-gray-700">View all the reports that have been generated from your interactions.</p>
                 </div>
             </a>
@@ -76,7 +76,7 @@
             <!-- Option 6: Contact Us / Feedback -->
             <a href="{{ url_for('contact_us') }}" class="option-card">
                 <div class="bg-white p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300">
-                    <h2 class="text-xl font-bold text-green-700 mb-2">Contact Us / Feedback</h2>
+                    <h2 class="text-xl font-bold text-green-700 mb-2">6. Contact Us / Feedback</h2>
                     <p class="text-gray-700">Reach out to us for support or to provide feedback.</p>
                 </div>
             </a>
